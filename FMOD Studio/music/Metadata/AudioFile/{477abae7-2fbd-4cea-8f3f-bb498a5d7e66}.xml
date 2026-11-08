@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{477abae7-2fbd-4cea-8f3f-bb498a5d7e66}">
+		<property name="assetPath">
+			<value>kaazoom-by-the-rafters-glow-full-version-medieval-tavern-music-rpg-game-620397.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>142.94399999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3fbd43a6-01ee-4fe4-8cf4-82e9f785f89a}</destination>
+		</relationship>
+	</object>
+</objects>
